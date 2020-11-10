@@ -1,0 +1,8 @@
+beautiful soup saca el html y saca los elements
+Selenium es como un bot que hace click en las paginas y saca elementos
+
+
+podemos buscar ya un "scrapper para glassdor", por ejemplo, pero hay que darle reconocimiento en el readme; o con un fork, que ya se ve que le estas dando credito al autor.
+
+
+Podemos hacer una lista de las cosas para hacer para dar una idea de lo que vamos a hacer
